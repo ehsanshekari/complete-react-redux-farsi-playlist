@@ -1,12 +1,12 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
-import SubscriptionForm from './components/SubscriptionForm';
+import Card from './components/Card';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 
 root.render(
   <div className="container">
-    <SubscriptionForm />
-    <SubscriptionForm />
+    <Card />
+    <Card />
   </div>
 );
