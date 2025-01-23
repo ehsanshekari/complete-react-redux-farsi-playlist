@@ -5,6 +5,9 @@ function AnimeDetail({ anime }) {
     return null;
   }
 
+  // debugger;
+  // console.log('anime:', anime);
+
   return (
     <div className="card">
       <img
