@@ -4,5 +4,6 @@ import counterReducer from './features/couterSlice';
 export default configureStore({
     reducer:{
         counter: counterReducer
-    }
+    },
+    devTools: false,
 })
