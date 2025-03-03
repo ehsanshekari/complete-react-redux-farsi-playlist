@@ -1,9 +1,4 @@
 # کدهای دوره کامل React و Redux
-
-<div align="center">
-  <img src="https://via.placeholder.com/800x400?text=React+%26+Redux+Course" alt="React Redux Course Banner" />
-</div>
-
 ## درباره دوره
 🚀 این دوره جامع **React و Redux**، یک راهنمای کامل برای یادگیری این دو تکنولوژی قدرتمند در توسعه وب است.  
 در این دوره، از مفاهیم پایه‌ای **React** مانند **کامپوننت‌ها، Props، State و مدیریت رویدادها** شروع کرده و سپس به مباحث پیشرفته‌تر مانند **Redux، Redux Toolkit و Context API** می‌پردازیم.  
